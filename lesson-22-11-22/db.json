@@ -1,0 +1,32 @@
+[
+  {
+    "userName": "John",
+    "userAge": 35,
+    "isMarried": true,
+    "friends": [
+      {
+        "friendName": "Masha",
+        "friendAge": 25
+      },
+      {
+        "friendName": "Pete",
+        "friendAge": 65
+      }
+    ]
+  },
+  {
+    "userName": "Bob",
+    "userAge": 45,
+    "isMarried": false,
+    "friends": [
+      {
+        "friendName": "Akmat",
+        "friendAge": 18
+      },
+      {
+        "friendName": "Tashmat",
+        "friendAge": 65
+      }
+    ]
+  }
+]
